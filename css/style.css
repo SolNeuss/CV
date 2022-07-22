@@ -38,7 +38,9 @@ h2 {
 	margin-bottom: 30px;
 	width: 35vw;
 }
-
+h3 {
+	color: #232851;
+}
 .btn {
 	border-radius: 50px;
 	border: none;
